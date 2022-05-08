@@ -1,0 +1,51 @@
+I"<h1 id="yuanping-du">Yuanping Du</h1>
+<p>MFE student in Cornell University</p>
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">yd346@cornell.edu</a>
+| <a href="www.linkedin.com/in/yuanping-du">My linedin Page</a>
+</div>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Expected Graduation in December 2022</code> <br />
+<strong>Cornell University</strong>,  <br />
+College of Engineering,     Ithaca, NY <br />
+Master of Engineering in Financial Engineering, GPA 4.0</p>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2016 - July 2020</code>  <br />
+<strong>Peking University</strong>,  <br />
+School of Economics,        Beijing, China <br />
+Bachelor’s Degree of Economics, Major in Finance, GPA 3.7/4.0</p>
+
+<p><code class="language-plaintext highlighter-rouge">Selected Coursework</code>: <br />
+Stochastic Analysis and its Applications, Computer Programming of Financial Engineering, Introduction to Machine Learning, Monte Carlo Simulation, Introduction to Natural Language Process, Data Structure and Algorithms</p>
+
+<h2 id="experience">EXPERIENCE</h2>
+<p><strong>Quantitative Research Intern</strong>, QTG Capital, Shanghai, China</p>
+<ul>
+  <li>CTA macroeconomic factor screening: back-tested more than 400 macro variables corresponding to seven types of black futures, and analyzed the rolling correlation.</li>
+  <li>CTA high-frequency volume and price factor research: Using futures tick data, studied the effect of high-frequency volume and price factors on 50 futures varieties, including commodities and stock indexes; also studied the impact on the price prediction of different futures for certain periods.</li>
+  <li>After applying research to the Chinese A market, the overall regression results of some stocks in the computer industry on the Sci-tech Innovation Board achieved a significance level of 10% both in-sample and out-of-sample.</li>
+</ul>
+
+<p><strong>Investment Department Intern</strong>, Harvest Fund, Beijing, China</p>
+<ul>
+  <li>Developed FOF strategy based on heavy-weighted name information of each fund and predicted the trends of price movement; identified the technical indicators such as bottom reversal and top flip.</li>
+  <li>Optimized the timing of beta hedging and dynamically adjusted hedging ratio with equity index futures (IF/IC), which increased the return rate of back-test strategy from 19% to 24% with no extra volatility.</li>
+  <li>Shortlisted all available fixed income funds in Chinese market to build momentum strategies; backtested data from 2017 onwards and achieved an annualized return of 9% and 180-day return over 3%.</li>
+  <li>Automated the process of calculating the return rate of Harvest Fund portfolios.</li>
+</ul>
+
+<h2 id="projects">PROJECTS</h2>
+<p><strong>Quantitative Research in Implied Volatility Rooted Mean Square Error (IVRMSE</strong></p>
+
+<ul>
+  <li>Used closed-form expansion of expire time (Tau) and moneyness (K) from implied volatility surface to calculate in-sample and out-of-sample IVRMSE in non-parametric model; employed Empirical Martingale Simulation to reduce the in-sample IVRMSE by 10%.</li>
+  <li>Employed Matrix Estimation to calculate parameters of Heston model under exact identification; calculated and compared corresponding IVRMSE.</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET
