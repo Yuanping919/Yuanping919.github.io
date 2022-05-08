@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Control Variate Sampling Analysis"
-subtitle: "Control Variate Sampling is the first method to decrease variance when doing MC"
+subtitle: "Basic Ideas on Control Variates"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/stratified_sampling/stock2.jpg'
 ---
